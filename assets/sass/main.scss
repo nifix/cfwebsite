@@ -1,0 +1,14 @@
+@import '~bulma/sass/utilities/initial-variables';
+@import '~bulma/sass/utilities/functions';
+
+// customize styles
+
+$grey-dark: #b80056;
+$black: #0fb956;
+$info: hsl(202, 93%, 12%);
+$link: #b1b1b1cc;
+
+$progress-border-radius: 0px;
+
+@import '~bulma';
+@import '~bulma-timeline';
